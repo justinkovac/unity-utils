@@ -1,5 +1,6 @@
 /* 
 	Unity Pedometer control for iOS and Android adapted from a Javascript implementation of a Unity Answers post by Aldo Naletto.
+	Justin Kovac
 */
 
 using UnityEngine;
